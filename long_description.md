@@ -6,12 +6,7 @@ available and is useful not only for basic documentation purposes, but also for 
 inclusion in gaming and virtual reality environments, or for identifying different sub-styles in otherwise similar 
 types of artefact (that might tell us about the date of the artefact, where it was made, or by whom).
 
-This particular photo-masking application is an experiment as we are attempting to model a complex piece of Japanese pottery.
-The term Jōmon (縄文) literally means ‘cord marked’ and is used to refer to Japan’s oldest known culture – the Jōmon people. 
-This period is one of the oldest dated pottery traditions in the world, with pottery not being used in the Middle East or 
-North Africa until several thousand years later. These vessels take their name from the elaborate flame-like protrusions 
-around the rim. The rims and mouths of these pots held special importance for the Jōmon, as they would have been the focal 
-point for the family gathered around the hearth.
+This particular photo-masking application is an experiment as we are attempting to model an Egyptian box coming from the collections of Museo Egizio, in Turin, Italy.
 
 ### What we want you to do
 
@@ -23,13 +18,12 @@ If you are interested in what our 3D completed models look like, please have a l
 
 ### This project is on behalf of:
 
-University College London, Sainsbury Institute for the Study of Japanese Arts and Cultures and The British Museum
+Museo Egizio, University College London and the British Museum
 
-[![The British Museum logo](https://finds.org.uk/assets/logos/bm_logo.png)](http://britishmuseum.org)
-[![Sainsbury Logo](https://micropasts-other.s3.amazonaws.com/other/sainsburyLogo.jpg)](http://www.sainsbury-institute.org)
+[![Museo Egizio Logo](http://micropasts.org/wp-content/uploads/2016/05/ME-logo-1.png)](http://www.museoegizio.it)
 [![UCL logo](https://micropasts-other.s3.amazonaws.com/other/UCL_logo_wide.png)](http://ucl.ac.uk/archaeology)
-
+[![The British Museum logo](https://finds.org.uk/assets/logos/bm_logo.png)](http://britishmuseum.org)
 
 ### Find the code on GitHub
 
-[![](http://micropasts-other.s3.amazonaws.com/other/github_logo.png)](https://github.com/MicroPasts/jomonPot)
+[![](http://micropasts-other.s3.amazonaws.com/other/github_logo.png)](https://github.com/MicroPasts/MuseoEgizio1_app)
