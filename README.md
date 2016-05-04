@@ -1,4 +1,4 @@
-PyBossa photo masking application for Museo Egizio objects
+PyBossa photo masking application for Museo Egizio object
 =================================================
 
 This application has three files:
@@ -7,7 +7,7 @@ This application has three files:
 *  template.html: the view for every task and deal with the data of the answers.
 *  tutorial.html: a simple tutorial for the volunteers.
 
-![alt screenshot](http://micropasts.org/wp-content/uploads/2015/03/PEF_Readme.png)
+![alt screenshot](http://micropasts.org/wp-content/uploads/2016/05/boxME2.jpg)
 
 Funded by
 =========
