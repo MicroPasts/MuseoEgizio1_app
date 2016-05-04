@@ -18,9 +18,9 @@ If you are interested in what our 3D completed models look like, please have a l
 
 ### This project is on behalf of:
 
-Museo Egizio, University College London and the British Museum
+Museo Egizio
 
-[![Museo Egizio Logo](http://micropasts.org/wp-content/uploads/2016/05/ME-logo-1.png)](http://www.museoegizio.it)
+[![Museo Egizio Logo](http://micropasts.org/wp-content/uploads/2016/05/ME-logo-1-e1462396215390.png)](http://www.museoegizio.it)
 [![UCL logo](https://micropasts-other.s3.amazonaws.com/other/UCL_logo_wide.png)](http://ucl.ac.uk/archaeology)
 [![The British Museum logo](https://finds.org.uk/assets/logos/bm_logo.png)](http://britishmuseum.org)
 

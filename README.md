@@ -15,9 +15,8 @@ Funded by
 
 Funded Partners
 ===============
-![British Museum](http://finds.org.uk/images/logos/bm_logo.png)
 ![UCL](http://crowdsourced.micropasts.org/static/img/black.jpg)
-![Museo Egizio](http://micropasts.org/wp-content/uploads/2016/05/ME-logo-1.png)
+![Museo Egizio](http://micropasts.org/wp-content/uploads/2016/05/ME-logo-1-e1462396215390.png)
 
 Testing the application
 =======================
