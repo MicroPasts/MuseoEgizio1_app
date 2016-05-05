@@ -296,17 +296,17 @@ a.ol-full-screen-true:after {
 
 <script>
 function loadUserProgress() {
-    pybossa.userProgress('jomonFlamePot').done(function(data){
+    pybossa.userProgress('MuseoEgizio1').done(function(data){
     	
     	console.log('Tasks done so far: ' + data.done);
     	
-        if ((data.done == 1) && ($.cookie('surveyjomonFlamePot') === undefined)){
+        if ((data.done == 1) && ($.cookie('surveyjMuseoEgizio1') === undefined)){
            $("#survey").modal('show');
-           $.cookie('surveyjomonFlamePot', 'shown', { path: '/'});
+           $.cookie('surveyMuseoEgizio1', 'shown', { path: '/'});
         }
-        if ((data.done == 25) && ($.cookie('survey25jomonFlamePot') === undefined)){
+        if ((data.done == 25) && ($.cookie('survey25MuseoEgizio1') === undefined)){
            $("#survey25").modal('show');
-           $.cookie('survey25jomonFlamePot', 'shown', { path: '/'});
+           $.cookie('survey25MuseoEgizio1', 'shown', { path: '/'});
         }
         var pct = Math.round((data.done*100)/data.total);
         $("#progress").css("width", pct.toString() +"%");
@@ -675,5 +675,5 @@ pybossa.presentTask(function(task, deferred) {
         
 });
 
-pybossa.run('jomonFlamePot');
+pybossa.run('MuseoEgizio1');
 </script>
