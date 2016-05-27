@@ -11,12 +11,12 @@ This application has three files:
 
 Funded by
 =========
-![logo lapislazzulo CMYK](http://micropasts.org/wp-content/uploads/2016/05/logo-lapislazzulo-CMYK.jpg)
+![logo lapislazzulo CMYK](http://micropasts.org/wp-content/uploads/2016/05/logo-lapislazzulo-CMYK-e1464338448417.jpg)
 
 Funded Partners
 ===============
 ![UCL](http://crowdsourced.micropasts.org/static/img/black.jpg)
-![logo lapislazzulo CMYK](http://micropasts.org/wp-content/uploads/2016/05/logo-lapislazzulo-CMYK.jpg)
+![logo lapislazzulo CMYK](http://micropasts.org/wp-content/uploads/2016/05/logo-lapislazzulo-CMYK-e1464338448417.jpg)
 
 Testing the application
 =======================
