@@ -7,7 +7,7 @@ This application has three files:
 *  template.html: the view for every task and deal with the data of the answers.
 *  tutorial.html: a simple tutorial for the volunteers.
 
-![alt screenshot](http://micropasts.org/wp-content/uploads/2016/05/boxME2-e1462396809335.jpg)
+![alt screenshot](http://micropasts.org/wp-content/uploads/2016/05/boxME2-e1464338644182.jpg)
 
 Funded by
 =========
@@ -15,8 +15,8 @@ Funded by
 
 Funded Partners
 ===============
-![UCL](http://crowdsourced.micropasts.org/static/img/black.jpg)
 ![logo lapislazzulo CMYK](http://micropasts.org/wp-content/uploads/2016/05/logo-lapislazzulo-CMYK-e1464338448417.jpg)
+![UCL](http://crowdsourced.micropasts.org/static/img/black.jpg)
 
 Testing the application
 =======================
