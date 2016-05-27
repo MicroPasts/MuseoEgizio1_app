@@ -1,8 +1,8 @@
 Il crowdsourcing e' un metodo che consente di raccogliere e integrare dati storici e archeologici grazie all'aiuto fornito online da un gruppo di volontari provenienti dai piu' vari e diversi paesi del mondo. 
 
-Questa applicazione di crowdsourcing e' finalizzata alla modellazione 3D del cofanetto porta-ushabty dello Scriba Regale e Sovrintendente al Palazzo Djehuty-Hotep [![boxME2](http://micropasts.org/wp-content/uploads/2016/05/boxME2-e1464338644182.jpg)], appartenente alle collezioni del [Museo Egizio di Torino](http://www.museoegizio.it). Una volta completato, il modello 3D sara' utile non solo a scopi di documentazione, ma anche per realizzare video e comunicare l'importanza e i significati della cultura materiale del Nuovo Regno. 
+Questa applicazione di crowdsourcing e' finalizzata alla modellazione 3D del cofanetto porta-ushabty dello Scriba Regale e Sovrintendente al Palazzo Djehuty-Hotep, appartenente alle collezioni del [Museo Egizio di Torino](http://www.museoegizio.it). Una volta completato, il modello 3D sara' utile non solo a scopi di documentazione, ma anche per realizzare video e comunicare l'importanza e i significati della cultura materiale del Nuovo Regno. 
 
-Insieme a University College London, il Museo Egizio e' infatti impegnato in un programma di Archeologia Pubblica, ovvero nello studio e sviluppo di metodi e tecniche per ampliare e diversificare il coinvolgimento diretto dei cittadini in attivita' di ricerca e produzione di dati archeologici.
+Insieme a [University College London] (http://www.ucl.ac.uk/archaeology), il Museo Egizio e' infatti impegnato in un programma di Archeologia Pubblica, ovvero nello studio e sviluppo di metodi e tecniche per ampliare e diversificare il coinvolgimento diretto dei cittadini in attivita' di ricerca e produzione di dati archeologici.
 
 ### Come puoi aiutare il Museo Egizio
 
@@ -12,9 +12,7 @@ Vorremmo che disegnassi un poligono attorno all'oggetto che vedrai in ciascuna f
 
 Puoi vedere uno dei modelli 3D gia' completati [sul nostro Sketchfab profile](https://sketchfab.com/micropasts).
 
-### Questo progetto e' realizzato in collaborazione con il Museo Egizio di Torino.
-
-ENGLISH
+### ENGLISH TRANSLATION
 This particular photo-masking application is an experiment as we are attempting to model an Egyptian box coming from the collections of Museo Egizio, in Turin, Italy.
 
 This application enables the creation of a high quality 3D model of an archaeological artefact via process known as 
@@ -36,7 +34,7 @@ ignore irrelevant background information.
 
 If you are interested in what our 3D completed models look like, please have a look [at our Sketchfab profile](https://sketchfab.com/micropasts).
 
-### This project is a collaboration with the Museo Egizio of Turin
+### This project is a collaboration with  Museo Egizio of Turin, Italy.
 
 [![logo lapislazzulo CMYK](http://micropasts.org/wp-content/uploads/2016/05/logo-lapislazzulo-CMYK-e1464338838694.jpg)](http://www.museoegizio.it)
 [![UCL logo](https://micropasts-other.s3.amazonaws.com/other/UCL_logo_wide.png)](http://ucl.ac.uk/archaeology)
