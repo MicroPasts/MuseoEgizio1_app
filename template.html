@@ -173,32 +173,17 @@ a.ol-full-screen-true:after {
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-        <h4 class="modal-title">Hey there! Do you want to help us?</h4>
+        <h4 class="modal-title">Ciao! Do you want to help us?</h4>
       </div>
       <div class="modal-body">
-        Thanks for contributing one task for the project. We are interested in knowing how you found out about us. <strong>Could you please answer two questions in a short survey?</strong>      
+        <p>Grazie per aver partecipato. Siamo interessati a conoscere la tua opinione sul progetto. <strong>Potresti rispondere a quattro brevi domande?</strong>    
+        </p>  
+          <p>Thanks for contributing one task for the project. We are interested in knowing how you found out about us. <strong>Could you please answer two questions in a short survey?</strong>    
+        </p>  
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Skip</button>
-        <a class="btn btn-large btn-success" href="https://docs.google.com/forms/d/1ENa3xBllMaO5wmHDbPSkbyBdfXtxXdi-Y0KxO4t_s-8/viewform?embedded=true">Of course! Take me to the survey!</a>
-      </div>
-    </div><!-- /.modal-content -->
-  </div><!-- /.modal-dialog -->
-</div><!-- /.modal -->
-
-<div id="survey25" class="modal fade" data-backdrop="static">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-        <h4 class="modal-title">Congrats for completing 25 tasks!</h4>
-      </div>
-      <div class="modal-body">
-        Thanks for contributing 25 tasks for the project. Now that you have been using MicroPasts for a while, we would like to know how you found it. <strong>Could you please answer a few questions in a short survey?</strong>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Skip</button>
-        <a class="btn btn-large btn-success" href="https://docs.google.com/forms/d/1XQrw1TxuNvENNo-8c5jepJwG0-LTc1-Xf-Ilm7JkZQ0/viewform?embedded=true">Of course! Take me to the survey!</a>
+        <a class="btn btn-large btn-success" href="https://docs.google.com/forms/d/1qCLpNvZ_FxVWWLj5sOcMlfpQ64nXLrHAmllBQkBv_Uo/viewform?embedded=true">Yes, of course! </a>
       </div>
     </div><!-- /.modal-content -->
   </div><!-- /.modal-dialog -->
@@ -304,10 +289,7 @@ function loadUserProgress() {
            $("#survey").modal('show');
            $.cookie('surveyMuseoEgizio1', 'shown', { path: '/'});
         }
-        if ((data.done == 25) && ($.cookie('survey25MuseoEgizio1') === undefined)){
-           $("#survey25").modal('show');
-           $.cookie('survey25MuseoEgizio1', 'shown', { path: '/'});
-        }
+        
         var pct = Math.round((data.done*100)/data.total);
         $("#progress").css("width", pct.toString() +"%");
         $("#progress").attr("title", pct.toString() + "% completed!");
