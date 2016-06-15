@@ -1,8 +1,8 @@
 Il crowdsourcing e' un metodo che consente di raccogliere e integrare dati storici e archeologici grazie all'aiuto fornito online da un gruppo di volontari provenienti dai piu' vari e diversi paesi del mondo. 
 
-Questa applicazione di crowdsourcing e' finalizzata alla modellazione 3D del cofanetto porta-ushabty dello Scriba Regale e Sovrintendente al Palazzo Djehuty-Hotep, appartenente alle collezioni del [Museo Egizio di Torino](http://www.museoegizio.it). Una volta completato, il modello 3D sara' utile non solo a scopi di documentazione, ma anche per realizzare video e comunicare l'importanza e i significati della cultura materiale del Nuovo Regno. 
+Questa applicazione di crowdsourcing e' finalizzata alla modellazione 3D del [Cofanetto porta-ushabty dello Scriba Regale e Sovrintendente al Palazzo Djehuty-Hotep] (http://research.micropasts.org/2016/06/14/morte-e-rinascita-nel-nuovo-regno/), appartenente alle collezioni del [Museo Egizio di Torino](http://www.museoegizio.it). Una volta completato, il modello 3D sara' utile non solo a scopi di documentazione, ma anche per realizzare video e comunicare l'importanza e i significati della cultura materiale del Nuovo Regno. 
 
-Insieme a [University College London] (http://www.ucl.ac.uk/archaeology), il Museo Egizio e' infatti impegnato in un programma di Archeologia Pubblica, ovvero nello studio e sviluppo di metodi e tecniche per ampliare e diversificare il coinvolgimento diretto dei cittadini in attivita' di ricerca e produzione di dati archeologici.
+Insieme a [University College London] (http://www.ucl.ac.uk/archaeology), il Museo Egizio e' infatti impegnato in un programma di [Archeologia Pubblica] (http://research.micropasts.org/2016/06/14/archeologia-pubblica-e-crowdsourcing-al-museo-egizio/), ovvero nello studio e sviluppo di metodi e tecniche per ampliare e diversificare il coinvolgimento diretto dei cittadini in attivita' di ricerca e produzione di dati archeologici.
 
 ### Come puoi aiutare il Museo Egizio
 
